@@ -2,7 +2,7 @@ package com.Arrays;
 
 public class SortArrayUsingOneLoop {
 	
-	public static void MakearrayZerostoLast(int number[]) {
+	public static void SortArrayusingoneloop(int number[]) {
 		
 		//Sort the array
 		
@@ -28,6 +28,6 @@ public class SortArrayUsingOneLoop {
 		
 	public static void main(String[] args) {	
 		int number[] = {1,2,0,0,7,9};
-		MakearrayZerostoLast(number);
+		SortArrayusingoneloop(number);
 	}
 }
