@@ -1,4 +1,9 @@
 1.Merge Two Sorted Arrays 
     ex : num1  = [3,4,2,1] num2 = [5,8,6,7] num3 should be [1,2,3,4,5,6,7,8]
 
-2.
+2.Remove Duplicates From Array Using one more Array
+3.Frequency Calculate of an Array  
+ex:  {10,20,20,10}   output :   10 2
+								20 2
+								
+4.
